@@ -50,5 +50,7 @@ def square(who, side):
 
 square(mi, 75)
 square(bob, 150)
+mi.color("orange")
+square(mi, 150)
 
 screen.exitonclick()
